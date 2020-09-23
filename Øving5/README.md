@@ -12,7 +12,7 @@ Kunne implementere metoder som oppretter, oppdaterer og fjerner slike assosiasjo
 
 Dette må du gjøre
 Velg og gjennomfør minst én av oppgavene under:
-Partner (lett)
+Partner (lett) https://www.ntnu.no/wiki/pages/viewpage.action?pageId=99616126
 Card del 2 (lett)
 Twitter (medium)
 Stopwatch (medium)
